@@ -94,6 +94,8 @@ space
 
 ---
 
-[Back to repro using definition node][ref]
+[Back to repro using definition node][ref-1]
+[Back to scss-to-css using definition node][ref-2]
 
-[ref]: #repro
+[ref-1]: #repro
+[ref-2]: #scss-to-css
