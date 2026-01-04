@@ -1,6 +1,6 @@
 # Repro
 
-<strong name="section1">Content</strong>
+<strong name="section 1">Content</strong>
 
 space
 
@@ -105,4 +105,4 @@ space
 
 ---
 
-[section1](#section1)
+[section 1](#section 1)
