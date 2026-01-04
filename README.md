@@ -1,5 +1,7 @@
 # Repro
 
+<strong id="section 1">Content</strong>
+
 space
 
 space
@@ -100,3 +102,7 @@ space
 
 [ref-1]: #repro
 [ref-2]: #scss-to-css
+
+---
+
+[section 1](#section-1)
